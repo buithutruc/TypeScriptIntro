@@ -1,7 +1,7 @@
-let user = {
-  name: "Truc",
-  age: 10,
-};
+// let user = {
+//   name: "Truc",
+//   age: 10,
+// };
 
-console.log("Truc");
-console.log(user.name);
+// console.log("Truc");
+// console.log(user.name);
