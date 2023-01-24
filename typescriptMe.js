@@ -14,3 +14,6 @@ heros.map(function (hero) {
 function consoleError(errMsg) {
     console.log(errMsg);
 }
+function handleError(errMsg) {
+    throw new Error(errMsg);
+}
