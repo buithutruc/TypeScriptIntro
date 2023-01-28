@@ -2,12 +2,12 @@ const superHeros: string[] = [];
 // const heroPower: number[] = []
 const heroPower: Array<number> = [];
 
-type User = {
+type Hero = {
   name: string;
   isActive: boolean;
 };
 
-const allUsers: User[] = [];
+const allUsers: Hero[] = [];
 const mlModels: number[][] = [[255, 255, 255], []];
 
 superHeros.push("spiderman");
