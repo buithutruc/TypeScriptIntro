@@ -33,3 +33,6 @@ const data2: string[] = ["1", "2", "3"];
 const data3: (string | number | true)[] = ["1", 4, true];
 
 let pi: 3.14 = 3.14;
+
+let seatAllotment: "aisle" | "middle" | "window";
+// seatAllotment = "door" ==> error
