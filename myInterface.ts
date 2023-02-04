@@ -20,7 +20,7 @@ const truc: Admin = {
   dbId: 22,
   email: "h@h.com",
   userId: 2211,
-  role: "admin"
+  role: "admin",
   githubToken: "github",
   startTrail: () => {
     return "trail started";
